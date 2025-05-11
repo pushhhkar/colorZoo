@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+} 
+   header h1 {
+    margin: 10;
+    color: #080101;
+    font-size: 3.5rem;
+}
+body {
+      text-align: center;
+      font-family: sans-serif;
+      background-color: #d4e3ef;
+      margin: 0;
+      padding: 20px;
+    }
+
+    #quiz-button {
+   position: fixed;      
+  bottom: 20px;          
+  left: 50%;             
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  font-size: 1em;
+  border-radius: 8px;
+  background-color: #ffcc00;
+  border: none;
+  cursor: pointer;
+}
